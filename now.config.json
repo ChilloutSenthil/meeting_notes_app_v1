@@ -1,0 +1,6 @@
+{
+  "scope": "x_mtg_notes",
+  "scopeId": "bb6a5c39dbf943708dd4cd999f96cd89",
+  "name": "Meeting Notes & Action Tracker",
+  "tsconfigPath": "./src/server/tsconfig.json"
+}
